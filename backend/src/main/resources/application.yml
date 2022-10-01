@@ -1,0 +1,3 @@
+coding-challenge:
+  path:
+    lyrics: data/taylor_swift_lyrics.csv #Path to where csv is stored

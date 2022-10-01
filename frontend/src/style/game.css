@@ -1,0 +1,19 @@
+.game {
+    padding: 0.5% 2% 0 2%;
+}
+
+.answer {
+    display: inline-block;
+    width: 300px;
+}
+
+.lyric {
+    background-color: white;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+#answer {
+    padding-top: 1%;
+}
